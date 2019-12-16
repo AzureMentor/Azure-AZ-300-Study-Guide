@@ -1,2 +1,7 @@
-# Azure-AZ-300-Study-Guide
-Study Guide for the Microsoft Azure Architect Technologies Exam
+# AZ-300: Microsoft Azure Architect Technologies Study Guide
+## Skills measured
+* [Deploy and configure infrastructure (25-30%)](1-Deploy%20and%20configure%20infrastructure%20(25-30%).md)
+* [Implement workloads and security (20-25%)](2-Implement%20workloads%20and%20security%20(20-25%).md)
+* [Create and deploy apps (5-10%)](3-Create%20and%20deploy%20apps%20(5-10%).md)
+* [Implement authentication and secure data (5-10%)](4-Implement%20authentication%20and%20secure%20data%20(5-10%).md)
+* [Develop for the cloud and for Azure storage (20-25%)](5-Develop%20for%20the%20cloud%20and%20for%20Azure%20storage%20(20-25%).md)
