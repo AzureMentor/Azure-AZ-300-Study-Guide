@@ -1,38 +1,38 @@
 # AZ-300: Implement workloads and security (25-30%)
 ## Migrate servers to Azure
-* migrate servers using Azure Migrate
+* Migrate servers using Azure Migrate
 
 ## Configure serverless computing
-* create and manage objects
-* manage a Logic App resource
-* manage Azure Function app settings
-* manage Event Grid
-* manage Service Bus
+* Create and manage objects
+* Manage a Logic App resource
+* Manage Azure Function app settings
+* Manage Event Grid
+* Manage Service Bus
 
 ## Implement application load balancing
-* configure application gateway
-* configure Azure Front Door service
-* configure Azure Traffic Manager
+* Configure application gateway
+* Configure Azure Front Door service
+* Configure Azure Traffic Manager
 
 ## Integrate on premises network with Azure virtual network
-* create and configure Azure VPN Gateway
-* create and configure site to site VPN
-* configure ExpressRoute
-* configure Virtual WAN
-* verify on premises connectivity
-* troubleshoot on premises connectivity with Azure
+* Create and configure Azure VPN Gateway
+* Create and configure site to site VPN
+* Configure ExpressRoute
+* Configure Virtual WAN
+* Verify on premises connectivity
+* Troubleshoot on premises connectivity with Azure
 
 ## Implement multi factor authentication
-* configure user accounts for MFA
-* configure fraud alerts
-* configure bypass options
-* configure trusted IPs
-* configure verification methods
+* Configure user accounts for MFA
+* Configure fraud alerts
+* Configure bypass options
+* Configure trusted IPs
+* Configure verification methods
 
 ## Manage role-based access control
-* create a custom role
-* configure access to Azure resources by assigning roles
-* configure management access to Azure
-* troubleshoot RBAC
-* implement Azure Policies
-* assign RBAC Roles
+* Create a custom role
+* Configure access to Azure resources by assigning roles
+* Configure management access to Azure
+* Troubleshoot RBAC
+* Implement Azure Policies
+* Assign RBAC Roles

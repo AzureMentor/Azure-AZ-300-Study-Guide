@@ -1,15 +1,15 @@
 # AZ-300: Create and deploy apps (5-10%)
 ## Create web apps by using PaaS
-* create an Azure app service Web App
-* create documentation for the API
-* create an App Service Web App for Containers
-* create an App Service background task by using WebJobs
-* enable diagnostics logging
+* Create an Azure app service Web App
+* Create documentation for the API
+* Create an App Service Web App for Containers
+* Create an App Service background task by using WebJobs
+* Enable diagnostics logging
 
 ## Design and develop apps that run in containers
-* configure diagnostic settings on resources
-* create a container image by using a Dockerfile
-* create an Azure Kubernetes Service
-* publish an image to the Azure Container Registry
-* implement an application that runs on an Azure Container Instance
-* manage container settings by using code
+* Configure diagnostic settings on resources
+* Create a container image by using a Dockerfile
+* Create an Azure Kubernetes Service
+* Publish an image to the Azure Container Registry
+* Implement an application that runs on an Azure Container Instance
+* Manage container settings by using code
