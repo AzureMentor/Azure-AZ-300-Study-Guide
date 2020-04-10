@@ -81,3 +81,5 @@
 * [Configure Azure Disk Encryption for Linux VMs](https://docs.microsoft.com/en-us/azure/virtual-machines/linux/disk-encryption-overview)
 * [Implement Azure Backup for Windows VMs](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/tutorial-backup-vms)
 * [Implement Azure Backup for Linux VMs](https://docs.microsoft.com/en-us/azure/virtual-machines/linux/tutorial-backup-vms)
+
+[Return to Table of Contents](README.md)

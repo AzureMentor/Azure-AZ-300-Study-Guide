@@ -23,3 +23,5 @@
 * Configure elastic pools for Azure SQL Database
 * Implement Azure SQL Database managed instances
 * Create, read, update, and delete data tables by using code
+
+[Return to Table of Contents](README.md)
